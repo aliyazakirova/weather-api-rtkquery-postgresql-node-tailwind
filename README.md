@@ -1,6 +1,6 @@
 ## Weather API Project
 
-This project utilizes Redux RTK Query, Node.js, and PostgreSQL to fetch weather data from three countries: Turkey, Russia, and the United Kingdom. The retrieved data is displayed on a page named "City Information."
+This project utilizes Redux RTK Query and Node.js to fetch weather data from three countries: Turkey, Russia, and the United Kingdom. The retrieved data is displayed on a webpage and saved to the PostgreSQL database using Docker.
 
 ### Features
 
@@ -64,6 +64,7 @@ This project utilizes Redux RTK Query, Node.js, and PostgreSQL to fetch weather 
 - Redux RTK Query
 - Node.js
 - PostgreSQL
+- Docker
 - Tailwind CSS
 
 ### Contributors

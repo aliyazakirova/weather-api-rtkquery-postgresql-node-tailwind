@@ -65,6 +65,7 @@ This project utilizes Redux RTK Query and Node.js to fetch weather data from thr
 - Node.js
 - PostgreSQL
 - Docker
+- Express
 - Tailwind CSS
 
 ### Contributors

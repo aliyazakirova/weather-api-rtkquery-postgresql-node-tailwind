@@ -1,6 +1,6 @@
 ## Weather API Project
 
-This project utilizes Redux RTK Query to fetch weather data from three countries: Turkey, Russia, and the United Kingdom. The retrieved data is displayed on a page named "City Information."
+This project utilizes Redux RTK Query, Node.js, and PostgreSQL to fetch weather data from three countries: Turkey, Russia, and the United Kingdom. The retrieved data is displayed on a page named "City Information."
 
 ### Features
 
